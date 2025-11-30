@@ -15,9 +15,13 @@ A fully automated big data analytics system that processes 100,000+ health recor
 
 ![Architecture Diagram](Architecture_Diagram.png)
 
+
+
+
+
 ## 🎥 Demo Video
 
-![Demo Video](vsonawa_bda_project.mp4)
+https://github.com/user-attachments/assets/25ee850d-0931-4f27-bbfe-70c253557fea
 
 ## 🛠️ Tech Stack
 
