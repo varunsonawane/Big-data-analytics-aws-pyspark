@@ -50,11 +50,11 @@ https://github.com/user-attachments/assets/25ee850d-0931-4f27-bbfe-70c253557fea
 
 - `vsonawa_bda_project.pdf` - Full project report
 - `Architecture_Diagram.png` - System architecture
-- `project_demo.mp4` - Video walkthrough
+- `vsonawa_bda_project.mp4` - Video walkthrough
 
 ## 👤 Author
 
-**Varunkumar Sonawane** | vsonawa@iu.edu
+**Varunkumar Sonawane** 
 
 ---
 
