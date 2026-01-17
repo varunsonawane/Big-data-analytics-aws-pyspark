@@ -38,6 +38,11 @@ https://github.com/user-attachments/assets/25ee850d-0931-4f27-bbfe-70c253557fea
 - Built **5 interactive visualizations** in Power BI
 - Discovered **72% of population** shows disease risk
 
+## 🖼️PowerBI Dashboard Visualization
+
+![PowerBI-visualizations](https://github.com/user-attachments/assets/59805266-117b-4034-ba3f-f9965d40535a)
+
+
 ## 🚀 Quick Start
 
 1. Upload raw CSV to S3 `raw/` folder
